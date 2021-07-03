@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/selective-context-consumer/static/js/main.3641f68f.chunk.js",
+    "main.js.map": "/selective-context-consumer/static/js/main.3641f68f.chunk.js.map",
+    "runtime-main.js": "/selective-context-consumer/static/js/runtime-main.06da0563.js",
+    "runtime-main.js.map": "/selective-context-consumer/static/js/runtime-main.06da0563.js.map",
+    "static/js/2.e252233e.chunk.js": "/selective-context-consumer/static/js/2.e252233e.chunk.js",
+    "static/js/2.e252233e.chunk.js.map": "/selective-context-consumer/static/js/2.e252233e.chunk.js.map",
+    "index.html": "/selective-context-consumer/index.html",
+    "static/js/2.e252233e.chunk.js.LICENSE.txt": "/selective-context-consumer/static/js/2.e252233e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06da0563.js",
+    "static/js/2.e252233e.chunk.js",
+    "static/js/main.3641f68f.chunk.js"
+  ]
+}
